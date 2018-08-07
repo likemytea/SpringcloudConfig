@@ -4,4 +4,5 @@ encoding//configcenter/eureka-feign1-dev.properties=UTF-8
 encoding//configcenter/myzuul-dev.properties=UTF-8
 encoding//configcenter/userservice-dev.properties=UTF-8
 encoding//configcenterhuayudongsheng/eureka-client1-dev.properties=UTF-8
+encoding//configcenterhuayudongsheng/myzuul-dev.properties=UTF-8
 encoding//configcenterhuayudongsheng/userservice-dev.properties=UTF-8
